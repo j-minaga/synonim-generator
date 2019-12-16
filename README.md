@@ -1,0 +1,1 @@
+# synonim-generator
